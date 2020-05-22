@@ -8,4 +8,6 @@ Python >= 3.8
 pip3 install termcolor or
 pip install termcolor
 
+pip install pprintpp
+
 
